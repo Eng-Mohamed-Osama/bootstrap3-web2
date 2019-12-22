@@ -1,0 +1,139 @@
+/**
+THE
+ABOUT
+PAGE
+START
+***/
+/*****start section INTO****/
+.into{
+  padding-top: 80px;
+  padding-bottom: 70px;
+}
+.into h1{
+  font-size: 60px;
+  margin-bottom: 30px;
+  font-weight: 800;
+  font-family: 'Droid Sans', sans-serif;
+  letter-spacing: -5px;
+}
+.into P{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 21px;
+  font-family: 'Droid Sans', sans-serif;
+}
+/*****end section INTO****/
+/*****start section FEATURE****/
+.features{
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.features h2{
+  margin-top: 10px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+}
+.features p{
+  font-size: 14px;
+  font-weight:lighter;
+  font-family: 'Raleway', sans-serif;
+}
+/*****end section FEATURE****/
+/*****start section CEO****/
+.ceo{
+  padding-top: 80px;
+}
+.ceo h2{
+  font-size: 36px;
+  font-weight: 800;
+  font-family: 'Droid Sans', sans-serif;
+  letter-spacing:-2px;
+}
+.ceo p{
+  font-size: 21px;
+  font-family: 'Droid Sans', sans-serif;
+  line-height: 1.8;
+}
+.ceo a{
+  border-radius: 5px;
+  margin-bottom: 30px;
+  color:#144677;
+}
+.ceo span{color:white;}
+/*****end section CEO****/
+/**
+THE
+ABOUT
+PAGE
+END
+***/
+/*******************/
+/**
+THE
+FAQ
+PAGE
+START
+***/
+/*****start section FAQ****/
+.faq{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.faq h1{
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 55px;
+  font-weight: 800;
+  letter-spacing: -2px;
+  margin-bottom: 40px;
+}
+.faq p{
+  font-size: 20px;
+  font-family: 'Droid Sans', sans-serif;
+}
+/*****end section FAQ****/
+/*****start section QUESTIONS****/
+.ques{
+  padding-bottom: 30px;
+}
+.ques button{
+  text-decoration: underline;
+  padding: 0;
+  font-size: 17px;
+  font-family: 'Droid Sans', sans-serif;
+  color:black;
+}
+.ques button:hover{
+  color:#144677;
+}
+.ques .card-body{
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 14px;
+  padding-right: 15px;
+}
+.ques h5 button:after{
+  font-family: "Font Awesome 5 Free";
+  font-weight: bolder;
+  content: "\f107";
+  float: right;
+  font-size: 20px;
+}
+.ques h5 button.collapsed:after{
+  font-family: "Font Awesome 5 Free";
+  font-weight: bolder;
+  content: "\f105";
+  float: right;
+  font-size: 20px;
+}
+/*****end section QUESTIONS****/
+
+
+
+
+
+/**
+THE
+FAQ
+PAGE
+END
+***/
