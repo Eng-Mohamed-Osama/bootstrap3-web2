@@ -16,7 +16,7 @@ $(document).ready(function(){
 });
 $(window).on("load",function(){
   $(".loading-screen h1,.loading-screen h2").fadeOut(800,function(){
-    $(".loading-screen").fadeOut(800,function(){
+    $(".loading-screen").fadeOut(1600,function(){
       $(this).remove();
     });
     $("body").css("overflow","auto");
